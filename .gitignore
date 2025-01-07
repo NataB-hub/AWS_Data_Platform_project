@@ -1,0 +1,4 @@
+/adv_venv
+config/config.conf
+/data
+*.pyc
